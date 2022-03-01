@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Meu nome é Pablo Paiva, tenho 29 anos e atualmente estou estudando desenvolviment web, focando no Front-end.
+Meu nome é Pablo Paiva, tenho 29 anos e atualmente estou estudando desenvolvimento web, focando no Front-end.
 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/pablo-paiva-19628ba4/). Me adiciona lá!
 
