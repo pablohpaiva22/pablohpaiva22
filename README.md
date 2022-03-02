@@ -8,4 +8,4 @@ No momento estou estudando:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" width="45"/>
 
-Também estou procurando uma oportunidade como desenvolvedor Front-end, caso saiba de alguma oportunidade, me ta um toque ;)!
+Também estou procurando uma oportunidade como desenvolvedor Front-end, caso saiba de alguma, me ta um toque ;)!
