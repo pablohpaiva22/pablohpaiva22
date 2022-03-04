@@ -6,7 +6,11 @@ Tecnologias que estou utilizando:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" width="45"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" width="45"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" width="45"/>    <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
-Tenho estudado bastante JavaScript e colocando em pratica o que estou aprendendo. Continuo praticando HTML e CSS onde já criei uma boa base. 
+##
+
+### 🧐 Um pouco do que venho fazendo
+
+Tenho estudado bastante JavaScript e colocando em pratica o que estou aprendendo ⚡. Continuo praticando HTML e CSS onde já criei uma boa base. 
 
 Um pouco do que venho aprendendo em JavaScript você consegue conferir no projeto [Animais Fantasticos](https://github.com/pablohpaiva22/animais-fantasticos). também pode conferir o que já criei com HTML e CSS no projeto [Bikcraft](https://github.com/pablohpaiva22/bikcraft) e na pagina [FlexBlog](https://github.com/pablohpaiva22/flexblog) que foi feita toda com Flexbox.
 
