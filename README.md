@@ -10,7 +10,7 @@ Tecnologias que estou utilizando:
 
 ### 🧐 Um pouco do que venho fazendo
 
-Tenho estudado bastante JavaScript e colocando em pratica o que estou aprendendo ⚡. Continuo praticando HTML e CSS onde já criei uma boa base. 
+Tenho estudado bastante JavaScript e colocado em pratica o que estou aprendendo ⚡. Continuo praticando HTML e CSS onde já criei uma boa base. 
 
 Um pouco do que venho aprendendo em JavaScript você consegue conferir no projeto [Animais Fantasticos](https://github.com/pablohpaiva22/animais-fantasticos). também pode conferir o que já criei com HTML e CSS no projeto [Bikcraft](https://github.com/pablohpaiva22/bikcraft) e na pagina [FlexBlog](https://github.com/pablohpaiva22/flexblog) que foi feita toda com Flexbox.
 
