@@ -14,7 +14,7 @@ Tenho estudado bastante JavaScript e colocado em pratica o que estou aprendendo 
 
 Um pouco do que venho aprendendo em JavaScript você consegue conferir no projeto [Animais Fantasticos](https://github.com/pablohpaiva22/animais-fantasticos), o que já criei com HTML e CSS no projeto [Bikcraft](https://github.com/pablohpaiva22/bikcraft) e na pagina [FlexBlog](https://github.com/pablohpaiva22/flexblog) que foi feita toda com Flexbox.
 
-Também iniciei meus estudos com <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16"  heigth="16"/> React.
+Também iniciei meus estudos com <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16"  heigth="16"/> React e Bootstrap
 
 ##
 
