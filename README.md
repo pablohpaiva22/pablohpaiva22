@@ -1,6 +1,6 @@
-## Olá! <img src="https://img.icons8.com/emoji/48/000000/waving-hand-light-skin-tone.png" height="35" width="35"/>
+## Olá!
 
-Meu nome é Pablo Paiva, tenho 29 anos e atualmente estou estudando desenvolvimento web, focado no Front-end.
+Meu nome é Pablo Paiva, tenho 29 anos.
 
 Tecnologias que estou utilizando:
 
@@ -8,16 +8,14 @@ Tecnologias que estou utilizando:
 
 ##
 
-### 🧐 Um pouco do que venho fazendo
+Atualmente focado em React e continuar evoluindo em HTML, CSS e JavaScript.
 
-Tenho estudado bastante JavaScript e colocado em pratica o que estou aprendendo ⚡. Continuo praticando HTML e CSS onde já criei uma boa base. 
+Conhecendo um pouco de Bootstrap.
 
-Um pouco do que venho aprendendo em JavaScript você consegue conferir no projeto [Animais Fantasticos](https://github.com/pablohpaiva22/animais-fantasticos), o que já criei com HTML e CSS no projeto [Bikcraft](https://github.com/pablohpaiva22/bikcraft) e na pagina [FlexBlog](https://github.com/pablohpaiva22/flexblog) que foi feita toda com Flexbox.
-
-Também iniciei meus estudos com <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16"  heigth="16"/> React e Bootstrap
+Buscando uma oportunidade como desenvolvedor front-end Junior.
 
 ##
 
 <a href="https://www.linkedin.com/in/pablo-paiva-19628ba4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Conecta comigo lá! 😄
+Conecte comigo!
