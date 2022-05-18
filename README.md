@@ -10,8 +10,6 @@ Tecnologias que estou utilizando:
 
 Atualmente focado em React e continuar evoluindo em HTML, CSS e JavaScript.
 
-Conhecendo um pouco de Bootstrap.
-
 Buscando uma oportunidade como desenvolvedor front-end Junior.
 
 ##
