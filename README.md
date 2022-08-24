@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pablo.
+## Olá! Eu sou o Pablo Paiva.
 
 Tecnologias que estou utilizando:
 
