@@ -1,6 +1,4 @@
-## Olá!
-
-Meu nome é Pablo Paiva, tenho 29 anos.
+## Olá! Eu sou o Pablo.
 
 Tecnologias que estou utilizando:
 
