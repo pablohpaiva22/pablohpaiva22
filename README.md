@@ -1,8 +1,6 @@
 ## Olá!
 
-Meu nome é Pablo Paiva, tenho 30 anos e sou desenvolvedor web. Atuo principalmente no front-end com JavaScript e React. Entrei no mundo da programação à aproximadamente 1 ano e desde então venho me desenvolvendo. No momento estou a procura de recolocação e começar a atuar como desenvolvedor web profissionalmente.
-
-Minha principal atuação é no front-end, porém também possuo conhecimentos no back-end na criação de APIs com NodeJS junto com express e MySQL como banco de dados.
+Meu nome é Pablo Paiva, tenho 30 anos e sou desenvolvedor web. Atuo principalmente no front-end com JavaScript e React, mast também me arrisco no back-end na criação de APIs com nodeJS junto com o express. Comecei a programar à aproximadamente 1 ano e desde então venho me desenvolvendo. No momento estou a procura de recolocação e começar a atuar como desenvolvedor web profissionalmente.
 
 ##
 
